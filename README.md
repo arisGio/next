@@ -16,13 +16,18 @@ Studying NextJS from the official documentation
 - close all the tags
 - camelCase most of the things
 
-# babel
+## babel
 
 - type=text/jsx
 - inform babel what code to transform
 
-# imperative vs declarative
+## imperative vs declarative
 
 - comparing previous js with current react code difference is huge
 - do not forget the essence here regarding DOM and source code
 - relevant for SSR later on
+
+## components
+
+- should be capitalized
+- use angle brackets < >
