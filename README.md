@@ -31,3 +31,10 @@ Studying NextJS from the official documentation
 
 - should be capitalized
 - use angle brackets < >
+
+## props vs state
+
+- props are passed to components as the first function parameter
+- state is initiated and stored within a component
+- you can pass the state information to children components as props
+- but logic for updating the state should be kept within the component where state was initially created
