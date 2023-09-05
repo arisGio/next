@@ -15,3 +15,14 @@ Studying NextJS from the official documentation
 - return single root element
 - close all the tags
 - camelCase most of the things
+
+# babel
+
+- type=text/jsx
+- inform babel what code to transform
+
+# imperative vs declarative
+
+- comparing previous js with current react code difference is huge
+- do not forget the essence here regarding DOM and source code
+- relevant for SSR later on
