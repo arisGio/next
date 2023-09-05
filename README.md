@@ -38,3 +38,11 @@ Studying NextJS from the official documentation
 - state is initiated and stored within a component
 - you can pass the state information to children components as props
 - but logic for updating the state should be kept within the component where state was initially created
+
+# from react to nextjs
+
+- create package.json with empty json inside
+- npm install react react-dom next
+- create .gitignore on your own to avoid commiting the unwanted files
+- NOTE: already we see that we need to configure things on our own
+- in the future all this will be automatically setup and configured using the nextjs tooling
